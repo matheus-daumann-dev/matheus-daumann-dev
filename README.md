@@ -1,10 +1,5 @@
-### Olá! Matheus Daumann
-
-
-- 🌱 Estudando Python
-
+### Olá! Eu sou  o Matheus Daumann
 ##
-
 <div align="center">
   <a href="https://github.com/matheus-daumann-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDaumann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
